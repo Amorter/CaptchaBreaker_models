@@ -174,5 +174,5 @@ cython_debug/
 .pypirc
 
 
-datasets/*
-models/*
+datasets/
+models/
