@@ -1,5 +1,5 @@
 # CaptchaBreaker_models
-这个仓库包含了CaptchaBreaker项目所使用的模型、训练数据和训练方法.
+这个仓库包含了[CaptchaBreaker](https://github.com/Amorter/CaptchaBreaker)项目所使用的模型、训练数据和训练方法.
 
 ## 协议
 本仓库的协议为 GNU Affero General Public License v3.0 (AGPL-3.0)
