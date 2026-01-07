@@ -1,4 +1,13 @@
-torch = 2.6.0
-ultralytics = 8.3.99
-matplotlib = 3.10.1
-modelscope = 1.24.1
+torch
+torchvision
+modelscope
+modelscope[datasets]
+ultralytics
+matplotlib
+onnx
+onnxruntime-gpu
+onnxslim
+onnxscript
+
+ipykernel
+ipywidgets
